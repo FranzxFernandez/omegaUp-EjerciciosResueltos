@@ -1,5 +1,3 @@
-# A continuación, se presentan mis soluciones a los soguientes problemas:
-
 **Numero** |  **Enunciado** | **Link**
 ------------ | ------------- | ------------- 
 17413 | A + B | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/A%2BB/main.c)
