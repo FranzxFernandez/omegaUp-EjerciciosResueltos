@@ -13,6 +13,7 @@
 17402 | Grados, Radianes y Gradianes | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Grados%2C%20Radianes%20y%20Gradianes/main.c)
 17412 | Hola Mundo | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hola%20Mundo/main.c)
 17413 | A + B | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/A%2BB/main.c)
+17663 | Practicando Funciones | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Practicando%20Funciones/main.c)
 
 <br>
 Si este repositorio te fue útil, considera apoyarme con una estrella.
