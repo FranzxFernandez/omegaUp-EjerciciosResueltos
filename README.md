@@ -4,6 +4,7 @@
 8924 | Hackerman te reta | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hackerman%20te%20reta/main.c)
 9329 | Mi altura | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Mi%20altura/main.c)
 10212 | Matrices Simples | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matrices%20Simples/main.c)
+11106 | Pares | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Pares/main.c)
 11456 | Vector dominante | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Vector_dominante/main.c)
 15318 | Imprimiendo enteros por paridad | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Imprimiendo_enteros_por_paridad/main.c)
 17363 | Discriminante | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Discriminante/main.c)
