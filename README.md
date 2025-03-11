@@ -14,6 +14,7 @@
 17412 | Hola Mundo | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hola%20Mundo/main.c)
 17413 | A + B | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/A%2BB/main.c)
 17663 | Practicando Funciones | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Practicando%20Funciones/main.c)
+20146 | Matriz triangular inferior | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matriz%20triangular%20inferior/main.c)
 
 <br>
 Si este repositorio te fue útil, considera apoyarme con una estrella.
