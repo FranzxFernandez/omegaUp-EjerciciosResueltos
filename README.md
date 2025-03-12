@@ -4,6 +4,7 @@
 8924 | Hackerman te reta | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hackerman%20te%20reta/main.c)
 9329 | Mi altura | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Mi%20altura/main.c)
 10212 | Matrices Simples | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matrices%20Simples/main.c)
+10851 | Tesla y las Constantes Enigmáticas | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Tesla%20y%20las%20Constantes%20Enigm%C3%A1ticas/main.c)
 11106 | Pares | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Pares/main.c)
 11394 | Calculadora de salario | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Calculadora%20de%20salario/main.c)
 11456 | Vector dominante | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Vector_dominante/main.c)
