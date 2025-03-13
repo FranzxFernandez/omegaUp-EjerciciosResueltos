@@ -16,6 +16,7 @@
 17413 | A + B | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/A%2BB/main.c)
 17663 | Practicando Funciones | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Practicando%20Funciones/main.c)
 20146 | Matriz triangular inferior | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matriz%20triangular%20inferior/main.c)
+21890 | Tipos de triangulos | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Tipos%20de%20triangulos/main.c)
 21907 | Calculadora perdida | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Calculadora%20perdida/main.c)
 
 <br>
