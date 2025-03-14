@@ -9,6 +9,7 @@
 11394 | Calculadora de salario | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Calculadora%20de%20salario/main.c)
 11456 | Vector dominante | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Vector_dominante/main.c)
 13611 | n-back | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/n-back/main.c)
+15139 | Toma de decisiones 2 | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Toma%20de%20decisiones%202/main.c)
 15318 | Imprimiendo enteros por paridad | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Imprimiendo_enteros_por_paridad/main.c)
 17363 | Discriminante | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Discriminante/main.c)
 17401 | Multiplica con tablas | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Multiplica_con_tablas/main.c)
