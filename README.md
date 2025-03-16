@@ -1,7 +1,7 @@
 **Numero** |  **Enunciado** | **Link**
 ------------ | ------------- | ------------- 
 6180 | sumar matrices | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/sumar%20matrices/main.c)
-7093 | El lado más corto [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/El%20lado%20m%C3%A1s%20corto/main.c)
+7093 | El lado más corto | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/El%20lado%20m%C3%A1s%20corto/main.c)
 8924 | Hackerman te reta | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hackerman%20te%20reta/main.c)
 9329 | Mi altura | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Mi%20altura/main.c)
 10212 | Matrices Simples | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matrices%20Simples/main.c)
