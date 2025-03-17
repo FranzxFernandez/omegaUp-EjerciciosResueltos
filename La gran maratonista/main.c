@@ -7,7 +7,7 @@
 
 void solve(void)
 {
-    long long int n, d, dist;
+    long long int n, d;
     scanf("%lld %lld", &n, &d);
 
     printf("%lld\n", n * d);
