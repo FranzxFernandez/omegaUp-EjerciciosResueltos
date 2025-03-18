@@ -4,7 +4,7 @@
 2574 | Tres Numeros Al Reves | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Tres%20Numeros%20Al%20Reves/main.c)
 5065 | Par o Impar | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Par%20o%20Impar/main.c)
 6180 | sumar matrices | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/sumar%20matrices/main.c)
-7002 | Evaluando fórmulas en sucesión [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Evaluando%20f%C3%B3rmulas%20en%20sucesi%C3%B3n/main.c)
+7002 | Evaluando fórmulas en sucesión | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Evaluando%20f%C3%B3rmulas%20en%20sucesi%C3%B3n/main.c)
 7093 | El lado más corto | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/El%20lado%20m%C3%A1s%20corto/main.c)
 8924 | Hackerman te reta | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hackerman%20te%20reta/main.c)
 9329 | Mi altura | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Mi%20altura/main.c)
