@@ -1,9 +1,14 @@
 **Numero** |  **Enunciado** | **Link**
 ------------ | ------------- | ------------- 
+453 | Suma simple | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Suma%20simple/main.c)
+2574 | Tres Numeros Al Reves | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Tres%20Numeros%20Al%20Reves/main.c)
+5065 | Par o Impar | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Par%20o%20Impar/main.c)
 6180 | sumar matrices | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/sumar%20matrices/main.c)
+7002 | Evaluando fórmulas en sucesión [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Evaluando%20f%C3%B3rmulas%20en%20sucesi%C3%B3n/main.c)
 7093 | El lado más corto | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/El%20lado%20m%C3%A1s%20corto/main.c)
 8924 | Hackerman te reta | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Hackerman%20te%20reta/main.c)
 9329 | Mi altura | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Mi%20altura/main.c)
+9332 | La gran maratonista | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/La%20gran%20maratonista/main.c)
 10212 | Matrices Simples | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matrices%20Simples/main.c)
 10851 | Tesla y las Constantes Enigmáticas | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Tesla%20y%20las%20Constantes%20Enigm%C3%A1ticas/main.c)
 11106 | Pares | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Pares/main.c)
@@ -22,6 +27,7 @@
 17413 | A + B | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/A%2BB/main.c)
 17663 | Practicando Funciones | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Practicando%20Funciones/main.c)
 20146 | Matriz triangular inferior | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Matriz%20triangular%20inferior/main.c)
+21880 | Operacion_es | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Operacion_es/main.c)
 21882 | La Bolsa de Valores | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/La%20Bolsa%20de%20Valores/main.c)
 21890 | Tipos de triangulos | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Tipos%20de%20triangulos/main.c)
 21907 | Calculadora perdida | [Link](https://github.com/FranzxFernandez/omegaUp-EjerciciosResueltos/blob/main/Calculadora%20perdida/main.c)
