@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\futbo\\OneDrive\\Documentos\\omegaUp\\ejercicios\\Promedio\\main.c","tests":[{"id":1742413296738,"input":"6\n1 4 5 9 11 3","output":"5.5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\futbo\\OneDrive\\Documentos\\omegaUp\\ejercicios\\Promedio\\main.c","group":"local","local":true}
