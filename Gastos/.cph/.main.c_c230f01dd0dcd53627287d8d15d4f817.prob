@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\futbo\\OneDrive\\Documentos\\omegaUp\\ejercicios\\Gastos\\main.c","tests":[{"id":1742506095715,"input":"10 20 5 60 40 0","output":"135 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\futbo\\OneDrive\\Documentos\\omegaUp\\ejercicios\\Gastos\\main.c","group":"local","local":true}
