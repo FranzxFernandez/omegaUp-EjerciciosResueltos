@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\futbo\\OneDrive\\Documentos\\omegaUp\\ejercicios\\Buscar y contar\\main.c","tests":[{"id":1744809752708,"input":"5\n1 7 3 4 3\n3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\futbo\\OneDrive\\Documentos\\omegaUp\\ejercicios\\Buscar y contar\\main.c","group":"local","local":true}
